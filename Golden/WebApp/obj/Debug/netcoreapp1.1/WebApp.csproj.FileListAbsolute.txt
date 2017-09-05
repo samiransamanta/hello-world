@@ -1,0 +1,9 @@
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\bin\Debug\netcoreapp1.1\WebApp.deps.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\bin\Debug\netcoreapp1.1\WebApp.runtimeconfig.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\bin\Debug\netcoreapp1.1\WebApp.runtimeconfig.dev.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\bin\Debug\netcoreapp1.1\WebApp.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\bin\Debug\netcoreapp1.1\WebApp.pdb
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\obj\Debug\netcoreapp1.1\WebApp.csprojResolveAssemblyReference.cache
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\obj\Debug\netcoreapp1.1\WebApp.AssemblyInfo.cs
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\obj\Debug\netcoreapp1.1\WebApp.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\WebApp\obj\Debug\netcoreapp1.1\WebApp.pdb

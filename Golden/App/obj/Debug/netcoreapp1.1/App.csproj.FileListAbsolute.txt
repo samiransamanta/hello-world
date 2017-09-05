@@ -8,3 +8,4 @@ c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\bin\Debug\netc
 c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\obj\Debug\netcoreapp1.1\App.AssemblyInfo.cs
 c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\obj\Debug\netcoreapp1.1\App.dll
 c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\obj\Debug\netcoreapp1.1\App.pdb
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\obj\Debug\netcoreapp1.1\App.csprojResolveAssemblyReference.cache
