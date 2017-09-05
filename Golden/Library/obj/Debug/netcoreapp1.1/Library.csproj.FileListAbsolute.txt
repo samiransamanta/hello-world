@@ -1,0 +1,7 @@
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\Library\bin\Debug\netcoreapp1.1\Library.deps.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\Library\bin\Debug\netcoreapp1.1\Library.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\Library\obj\Debug\netcoreapp1.1\Library.csprojResolveAssemblyReference.cache
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\Library\obj\Debug\netcoreapp1.1\Library.AssemblyInfo.cs
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\Library\bin\Debug\netcoreapp1.1\Library.pdb
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\Library\obj\Debug\netcoreapp1.1\Library.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\Library\obj\Debug\netcoreapp1.1\Library.pdb

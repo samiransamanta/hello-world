@@ -1,0 +1,10 @@
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\bin\Debug\netcoreapp1.1\App.deps.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\bin\Debug\netcoreapp1.1\App.runtimeconfig.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\bin\Debug\netcoreapp1.1\App.runtimeconfig.dev.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\bin\Debug\netcoreapp1.1\App.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\bin\Debug\netcoreapp1.1\App.pdb
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\bin\Debug\netcoreapp1.1\Library.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\bin\Debug\netcoreapp1.1\Library.pdb
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\obj\Debug\netcoreapp1.1\App.AssemblyInfo.cs
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\obj\Debug\netcoreapp1.1\App.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\App\obj\Debug\netcoreapp1.1\App.pdb

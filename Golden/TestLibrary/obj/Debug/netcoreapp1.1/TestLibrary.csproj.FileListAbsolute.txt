@@ -1,0 +1,14 @@
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\TestLibrary.deps.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\TestLibrary.runtimeconfig.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\TestLibrary.runtimeconfig.dev.json
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\TestLibrary.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\TestLibrary.pdb
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\Library.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\bin\Debug\netcoreapp1.1\Library.pdb
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\obj\Debug\netcoreapp1.1\TestLibrary.csprojResolveAssemblyReference.cache
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\obj\Debug\netcoreapp1.1\TestLibrary.AssemblyInfo.cs
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\obj\Debug\netcoreapp1.1\TestLibrary.dll
+c:\users\samiran\documents\visual studio 2017\Projects\Golden\TestLibrary\obj\Debug\netcoreapp1.1\TestLibrary.pdb
